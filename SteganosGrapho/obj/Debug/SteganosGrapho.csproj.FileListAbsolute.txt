@@ -1,0 +1,10 @@
+D:\настя\Компьютерная гррафика\SteganosGrapho\SteganosGrapho\bin\Debug\SteganosGrapho.exe.config
+D:\настя\Компьютерная гррафика\SteganosGrapho\SteganosGrapho\bin\Debug\SteganosGrapho.exe
+D:\настя\Компьютерная гррафика\SteganosGrapho\SteganosGrapho\bin\Debug\SteganosGrapho.pdb
+D:\настя\Компьютерная гррафика\SteganosGrapho\SteganosGrapho\obj\Debug\SteganosGrapho.csprojAssemblyReference.cache
+D:\настя\Компьютерная гррафика\SteganosGrapho\SteganosGrapho\obj\Debug\SteganosGrapho.Form1.resources
+D:\настя\Компьютерная гррафика\SteganosGrapho\SteganosGrapho\obj\Debug\SteganosGrapho.Properties.Resources.resources
+D:\настя\Компьютерная гррафика\SteganosGrapho\SteganosGrapho\obj\Debug\SteganosGrapho.csproj.GenerateResource.cache
+D:\настя\Компьютерная гррафика\SteganosGrapho\SteganosGrapho\obj\Debug\SteganosGrapho.csproj.CoreCompileInputs.cache
+D:\настя\Компьютерная гррафика\SteganosGrapho\SteganosGrapho\obj\Debug\SteganosGrapho.exe
+D:\настя\Компьютерная гррафика\SteganosGrapho\SteganosGrapho\obj\Debug\SteganosGrapho.pdb
